@@ -8,6 +8,8 @@ This interactive Power BI dashboard presents comprehensive insights into hospita
 
 Built an interactive dashboard using Power BI with extensive use of DAX queries to analyze and visualize hospitality KPIs such as RevPAR, ADR, DSRN, Realisation %, and Occupancy Rate. The dashboard supports filtering by city, room type, and room class to enable granular performance tracking.
 
+> 📚 **This is a guided project inspired by Codebasics' Hospitality Analytics Case Study.**
+
 ## 📊 Key Features
 
 - Revenue, RevPAR, ADR, Occupancy %, Realisation % tracking
